@@ -81,7 +81,7 @@ a {
   height: 250px;
   overflow: hidden;
   flex-shrink: 0;
-  border-radius: 10px;
+  border-radius: 2px;
 }
 
 .hero {
